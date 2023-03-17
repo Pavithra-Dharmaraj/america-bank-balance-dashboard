@@ -5,6 +5,8 @@ AmericaBankNew.csv is the dataset to be imported
 A dashboard is prepared using PowerBI 
 This explains the balance amount to be paid by different groups of customers 
 
+America bank dashboard 2.pbix file is the dashboard created using PowerBI. This can be downloaded and opened in PowerBI.
+
 # Various dax functions are included
 
 The following measures were created.
