@@ -22,3 +22,28 @@ The following measures were created.
 
 7.white collar = CALCULATE([TOTAL BALANCE],'AmericaBankNew'[Job Classification]="white collar")
 
+#Charts Used
+----Cards to show the balance amount in dashboard----
+
+----Column chart and Pie chart to show Total balance grouped by education
+
+----Doughnut chart to show Total balance by Job Classification
+
+----Bar Chart to show Total Balance by Marital Status
+
+A slicer is used to filter the visualizations in dashboard with the type of education
+
+# Interpretations from Dashboard
+
+
+Total Male Balance is $128.59M
+
+Total Female Balance is $108.34M
+
+Total House Owner Balance is $131.81M
+
+Total Renters Balance is $105.12M
+
+Total White collar Balance is $116.11M
+
+Total Blue Collar Balance is $61.26M
