@@ -5,7 +5,8 @@ AmericaBankNew.csv is the dataset to be imported
 A dashboard is prepared using PowerBI 
 This explains the balance amount to be paid by different groups of customers 
 
-Various dax functions are included
+# Various dax functions are included
+
 The following measures were created.
 
 1.TOTAL BALANCE = SUM(AmericaBankNew[Balance])
