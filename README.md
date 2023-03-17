@@ -22,8 +22,9 @@ The following measures were created.
 
 7.white collar = CALCULATE([TOTAL BALANCE],'AmericaBankNew'[Job Classification]="white collar")
 
-#Charts Used
-----Cards to show the balance amount in dashboard----
+# Charts Used
+
+----Cards to show the balance amount in dashboard
 
 ----Column chart and Pie chart to show Total balance grouped by education
 
@@ -47,3 +48,12 @@ Total Renters Balance is $105.12M
 Total White collar Balance is $116.11M
 
 Total Blue Collar Balance is $61.26M
+
+People under the category of secondary education are responsible for nearly 50% of the balance amount 
+
+When analysing the marital status, Married category have more balance and divorced category tend to much less balance
+
+When analysing the job classification, people with white collar maintain more balance than people with blue collar jobs.
+
+From this dashboard we get a clear view on which category needs more work to receive the balance amount.
+
